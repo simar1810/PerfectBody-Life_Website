@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.aaharsutra",
+      "package_name": "com.wellnessz.perfectbody",
       "sha256_cert_fingerprints": [
-        "52:42:B2:7E:21:24:11:20:03:73:29:1C:37:F1:1B:6C:DB:39:C9:A2:DC:66:32:8E:6A:33:59:38:E5:21:B7:64"
+        "03:A5:5D:6A:65:33:57:45:F7:85:77:A9:D4:62:C0:82:BE:82:4F:B7:FC:24:8A:15:16:DD:19:DB:23:17:E9:F2"
       ]
     }
   }
