@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server';
 const PLAY_STORE_URL =
   'https://play.google.com/store/apps/details?id=com.wellnessz.perfectbody';
 const APP_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.perfectbody';
+  'https://apps.apple.com/us/app/perfect-body-life/id6758608320';
 
 const IOS_REGEX = /iPhone|iPad|iPod/i;
 const ANDROID_REGEX = /Android/i;
